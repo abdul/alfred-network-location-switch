@@ -49,7 +49,7 @@ const findByName = name => {
 
 exports.List = list;
 
-exports.Connect = name => {
+exports.Select= name => {
 	return spawn("scselect", ["-n", name]);
 };
 
