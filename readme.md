@@ -2,6 +2,7 @@
 
 > Switch macOS Network Location
 
+<img src="https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.png">
 
 ## Install
 
@@ -15,8 +16,10 @@ $ npm install --global alfred-network-location-switch
 ## Usage
 
 In Alfred, type `nl`, <kbd>Enter</kbd>, and your query.
+- Select one of displayed network using arrow keys or displayed shortcut.
 
+<img src="https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.gif">
 
 ## License
 
-MIT © [Abdul Qabiz](https://abdulqabiz.com)
+MIT © [Abdul Qabiz](https://abdulqabiz.com), [Steve Agalloco](https://github.com/stve/alfred-vpn)
