@@ -17,7 +17,6 @@ const list = () => {
 	let locations = [];
 	let result = spawn("scselect");
 	let lines = result.stdout.toString().split("\n");
-	console.log(lines);
 	lines.forEach((line, index, arr) => {
 		if (index === arr.length - 1 && line === "") {
 			return;

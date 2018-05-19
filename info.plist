@@ -94,6 +94,29 @@
       <key>version</key>
       <integer>2</integer>
     </dict>
+    <dict>
+      <key>config</key>
+      <dict>
+        <key>concurrently</key>
+        <false/>
+        <key>escaping</key>
+        <integer>102</integer>
+        <key>script</key>
+        <string>./node_modules/.bin/run-node toggle.js "$1"</string>
+        <key>scriptargtype</key>
+        <integer>1</integer>
+        <key>scriptfile</key>
+        <string></string>
+        <key>type</key>
+        <integer>0</integer>
+      </dict>
+      <key>type</key>
+      <string>alfred.workflow.action.script</string>
+      <key>uid</key>
+      <string>9186FA3C-8488-434C-BF45-5F411923411A</string>
+      <key>version</key>
+      <integer>2</integer>
+  </dict>
   </array>
   <key>readme</key>
   <string></string>
