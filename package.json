@@ -1,6 +1,6 @@
 {
   "name": "alfred-network-location-switch",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Switch macOS Network Location",
   "license": "MIT",
   "repository": "abdul/alfred-network-location-switch",
