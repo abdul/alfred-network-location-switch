@@ -1,7 +1,7 @@
 {
   "name": "alfred-network-location-switch",
-  "version": "0.2.1",
-  "description": "Switch macOS Network Location",
+  "version": "0.2.2",
+  "description": "Alfred 3 workflow to switch macOS network location",
   "license": "MIT",
   "repository": "abdul/alfred-network-location-switch",
   "author": {
@@ -20,8 +20,10 @@
   "files": [
     "index.js",
     "icon.png",
-    "info.plist"
-  ],
+    "info.plist",
+    "src/utils.js",
+    "toggle.js"
+],
   "keywords": [
     "alfred",
     "workflow",
