@@ -1,6 +1,6 @@
 {
   "name": "alfred-network-location-switch",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Switch macOS Network Location",
   "license": "MIT",
   "repository": "abdul/alfred-network-location-switch",
@@ -17,8 +17,18 @@
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup"
   },
-  "files": ["index.js", "icon.png", "info.plist"],
-  "keywords": ["alfred", "workflow", "alfy", "macos", "network"],
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy",
+    "macos",
+    "network"
+  ],
   "dependencies": {
     "alfy": "^0.6.0"
   },
